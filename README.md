@@ -1,7 +1,7 @@
 # tcKimlikNoDogrulama
 TC Kimlik No Doğruma Sınıfı
 
-# Kullanımı
+# Kullanımı 
 
 $tc = new tcKimlik("tc kimlik no");
 
