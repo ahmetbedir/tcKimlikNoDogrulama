@@ -9,11 +9,11 @@ TC Kimlik No Doğruma Sınıfı
 
 `if($sonuc){`
 
-  `echo 'TC Kimlik No Doğrulandı';`
+	`echo 'TC Kimlik No Doğrulandı';`
   
 `}else{`
 
-  `echo 'Doğrulama işlemi başarısız!!';`
+	`echo 'Doğrulama işlemi başarısız!!';`
   
 `}`
 	
