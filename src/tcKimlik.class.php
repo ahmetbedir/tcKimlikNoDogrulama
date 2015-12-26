@@ -4,19 +4,13 @@
  * TC Kimlik No Doğruluma Sınıfı
  * İlk olarak TC Kimlik No'yu algoritmaya göre doğrulama yapalım:
  * İlk hanedeki ve 9.hanedeki sayı 0 olamaz.
- * 1,3,5,7,9 yani tek sayı sistemindeki sayıları topluyoruz ve 7 ile çarpıyoruz. 
- * Çıkan sonucu 2,4,6,9 çift sayı sistemindeki sayılar ile birlikte çıkartıyoruz.
+ * 1,3,5,7,9 yani tek sayıların bulunduğu hanelerdeki sayıları topluyoruz ve 7 ile çarpıyoruz. 
+ * Çıkan sonucu 2,4,6,9 çift sayıların bulunduğu hanelerdeki sayılar ile birlikte çıkartıyoruz.
  * Çıkan sonucun birler basamağındaki sayı tc kimlik numarasının 10. hanesindeki sayı ile aynı olmalıdır.
- * 1,2,3,4,5,6,7,8,9 ve 10 sayılarının toplamından çıkan sonucun birler basamağı tc kimlik numarasının 11. hanesidir.
+ * 1,2,3,4,5,6,7,8,9 ve 10 sayılarının toplamından çıkan sonucun birler basamağı tc kimlik numarasının 11. hanesindeki sayı ile aynı olmalıdır.
  *
- * Yukarı işlemler doğru ise geçerli bir tc kimlik numarası girilmiştir.
- *
- * Bu işlemlerden sonra Kimlik Bilgilerini SOAP ile kontrol ediyoruz..
- */
-
-
-/**
-* @author Ahmet Bedir <ahmetbedir16@gmail.com>
+ * @author Ahmet Bedir <ahmetbedir16@gmail.com>
+ * @url http://www.ahmetbedir.net
 */
 
 class tcKimlik
