@@ -1,5 +1,5 @@
-# tcKimlikNoDogrulama
-TC Kimlik No Doğruma Sınıfı
+# TC Kimlik No Doğruma Sınıfı
+T.C. İçişleri Bakanlığı Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü tarafından kullanıma sunulan web servisini kullanrak basit ve kolay bir şekilde TC kimlik no doğrulama işlemini yapabilirsiniz.
 
 # Kullanımı 
 
