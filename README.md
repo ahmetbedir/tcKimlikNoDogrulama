@@ -8,7 +8,9 @@ TC Kimlik No Doğruma Sınıfı
 `$sonuc = $tc->dogrula("ad","soyad","doğum yılı");`
 
 `if($sonuc){`
+
 	`echo 'TC Kimlik No Doğrulandı';`
+	
 `}else{`
 
 	`echo 'Doğrulama işlemi başarısız!!';`
