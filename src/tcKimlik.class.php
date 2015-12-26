@@ -10,7 +10,8 @@
  * 1,2,3,4,5,6,7,8,9 ve 10 sayılarının toplamından çıkan sonucun birler basamağı tc kimlik numarasının 11. hanesindeki sayı ile aynı olmalıdır.
  *
  * @author Ahmet Bedir <ahmetbedir16@gmail.com>
- * @url http://www.ahmetbedir.net
+ * @link http://www.ahmetbedir.net
+ * @license https://github.com/ahmetbedir/tcKimlikNoDogrulama/edit/master/LICENSE
 */
 
 class tcKimlik
