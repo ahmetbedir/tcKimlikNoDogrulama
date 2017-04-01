@@ -12,5 +12,5 @@ T.C. İçişleri Bakanlığı Nüfus ve Vatandaşlık İşleri Genel Müdürlü�
     }
 
 
-## Open source licensing info
-[LICENSE](https://github.com/ahmetbedir/tcKimlikNoDogrulama/edit/master/LICENSE "Open source licensing info")
+## License
+[The Laravel framework is open-sourced software licensed under the](https://opensource.org/licenses/MIT "MIT license.")
