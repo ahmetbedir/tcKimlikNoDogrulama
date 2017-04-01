@@ -13,4 +13,4 @@ T.C. İçişleri Bakanlığı Nüfus ve Vatandaşlık İşleri Genel Müdürlü�
 
 
 ## License
-[The Laravel framework is open-sourced software licensed under the](https://opensource.org/licenses/MIT "MIT license.")
+The Laravel framework is open-sourced software licensed under the [MIT license.](https://opensource.org/licenses/MIT)
