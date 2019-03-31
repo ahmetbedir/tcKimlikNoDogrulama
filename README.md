@@ -3,7 +3,7 @@ T.C. İçişleri Bakanlığı Nüfus ve Vatandaşlık İşleri Genel Müdürlü�
 
 ## Kullanımı 
 ```php
-    $tc = new tcKimlik("tc kimlik no");  
+    $tc = new tcKimlik("12345678912");  
     $sonuc = $tc->dogrula("ad","soyad","doğum yılı");  
     if($sonuc){  
         echo 'TC Kimlik No Doğrulandı';  
