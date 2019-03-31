@@ -2,7 +2,7 @@
 T.C. İçişleri Bakanlığı Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü tarafından kullanıma sunulan web servisini kullanarak basit ve kolay bir şekilde TC kimlik no doğrulama işlemini yapabilirsiniz.
 
 ## Kullanımı 
-
+```php
     $tc = new tcKimlik("tc kimlik no");  
     $sonuc = $tc->dogrula("ad","soyad","doğum yılı");  
     if($sonuc){  
@@ -10,6 +10,7 @@ T.C. İçişleri Bakanlığı Nüfus ve Vatandaşlık İşleri Genel Müdürlü�
     }else{  
         echo 'Doğrulama işlemi başarısız!!';  
     }
+```
 
 
 ## License
